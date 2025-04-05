@@ -1,18 +1,18 @@
 {
-  "name": "react-native-maps-directions",
-  "version": "1.9.0",
-  "description": "Directions Component for react-native-maps",
+  "name": "@bienbk/react-native-maps-directions",
+  "version": "1.0.1",
+  "description": "Directions Component",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:watch": "esw --watch"
   },
   "author": {
-    "name": "Bramus!",
-    "email": "bramus@bram.us",
-    "url": "https://www.bram.us/"
+    "name": "bienbk",
+    "email": "vanbienbk0356@gmail.com",
+    "url": "https://npmjs.com/org/"
   },
-  "repository": "https://github.com/bramus/react-native-maps-directions",
+  "repository": "https://github.com/bienbk/react-native-maps-directions.git",
   "keywords": [
     "react-native",
     "react-native-component",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bramus/react-native-maps-directions/issues"
+    "url": "https://github.com/bienbk/react-native-maps-directions.git"
   },
-  "homepage": "https://github.com/bramus/react-native-maps-directions",
+  "homepage": "https://github.com/bienbk/react-native-maps-directions.git",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
