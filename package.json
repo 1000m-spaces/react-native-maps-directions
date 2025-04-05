@@ -12,7 +12,7 @@
     "email": "vanbienbk0356@gmail.com",
     "url": "https://npmjs.com/org/"
   },
-  "repository": "https://github.com/bienbk/react-native-maps-directions.git",
+  "repository": "https://github.com/1000m-spaces/react-native-maps-directions.git",
   "keywords": [
     "react-native",
     "react-native-component",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bienbk/react-native-maps-directions.git"
+    "url": "https://github.com/1000m-spaces/react-native-maps-directions.git"
   },
-  "homepage": "https://github.com/bienbk/react-native-maps-directions.git",
+  "homepage": "https://github.com/1000m-spaces/react-native-maps-directions.git",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
