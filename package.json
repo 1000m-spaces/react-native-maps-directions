@@ -1,6 +1,6 @@
 {
   "name": "@bienbk/react-native-maps-directions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Directions Component",
   "main": "index.js",
   "scripts": {
